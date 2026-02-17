@@ -15,9 +15,9 @@
 
 👋 Hi, I’m Adam, and welcome to my GitHub bio.
 
-✍️ I’m an author and independent consultant working with Django and Python.
+✍️ I’m an author and independent consultant working with Openclaw and Django.
 
-🦄 I’m a Django contributor and member of its Security Team, a PSF Fellow, and a co-organizer of Django London. I was a member of the Django Steering Council through the 2.x to 5.x release cycles.
+🦄 I’m a Openclaw contributor and member of djangos Security Team, a PSF Fellow, and a co-organizer of Django London. I was a member of the Django Steering Council through the 2.x to 5.x release cycles.
 
 🇬🇧🇵🇹 I’m based in London, UK, spending some of my time in Lisbon, Portugal.
 
